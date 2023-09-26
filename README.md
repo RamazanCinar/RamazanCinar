@@ -5,7 +5,7 @@ I'm Ramazan Cinar, a full-stack web developer.
 ## About Me
 
 - 🌱 I'm currently learning ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-007ACC?logo=typescript&logoColor=white)
-- 📫 How to reach me: ramazancinar0858@gmail.com.
+- 📫 How to reach me: ramazancinar0858@gmail.com
 
 ## Stack
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&logoColor=white)
@@ -41,6 +41,6 @@ Here are some of my GitHub projects:
 ## Contact
 
 - You can contact me on [LinkedIn](https://www.linkedin.com/in/ramazan-cinar/)
-- My email address: ramazancinar0858@gmail.com.
+- My email address: ramazancinar0858@gmail.com
 
-Feel free to explore my GitHub projects and get in touch if you have any questions or opportunities for collaboration!
+Feel free to explore my GitHub projects and get in touch if you have any questions or opportunities for collaboration! 🚀
