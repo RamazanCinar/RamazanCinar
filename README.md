@@ -25,8 +25,10 @@ Here are some of my GitHub projects:
 
 | Programming Languages   | Frameworks and Technologies    |
 | ----------------------- | ------------------------------ |
-| HTML                    | React                          |
-| CSS                     | Node.js                        |
+| ![Static Badge](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white) | ![Static Badge](https://img.shields.io/badge/react-gray?logo=react&logoColor=skyblue)
+                          |
+| ![Static Badge](https://img.shields.io/badge/css-blue?logo=css3&logoColor=white)
+                     | ![Static Badge](https://img.shields.io/badge/node.js-gray?logo=node.js&logoColor=green)                        |
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-gray?logo=javascript&logoColor=dark-gray)               | Next.js                        |
 | SCSS                    | PostgreSQL                     |
 |                         | Tailwind CSS                   |
