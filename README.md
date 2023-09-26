@@ -21,7 +21,7 @@ Here are some of my GitHub projects:
 | ----------------------- | ------------------------------ |
 | HTML                    | React                          |
 | CSS                     | Node.js                        |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)         | Next.js                        |
+|Javascript               | Next.js                        |
 | SCSS                    | PostgreSQL                     |
 |                         | Tailwind CSS                   |
 |                         | Semantic UI                    |              |
