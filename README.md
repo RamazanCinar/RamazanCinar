@@ -23,7 +23,7 @@ I'm Ramazan Cinar, a full-stack web developer.
 Here are some of my GitHub projects:
 
 - [Pokédex](https://github.com/RamazanCinar/pokedex)
-- [Portoflio](https://github.com/RamazanCinar/Portfolio)
+- [Portfolio](https://github.com/RamazanCinar/Portfolio)
 - [OnSport](https://github.com/RamazanCinar/OnSport-projet)
 
 ## Skills
