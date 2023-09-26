@@ -11,9 +11,9 @@ I'm Ramazan, a full-stack web developer.
 
 Here are some of my GitHub projects:
 
-- Pokédex (https://github.com/RamazanCinar/pokedex)
-- Portoflio (https://github.com/RamazanCinar/Portfolio)
-- OnSport(https://github.com/RamazanCinar/OnSport-projet)
+- [Pokédex](https://github.com/RamazanCinar/pokedex)
+- [Portoflio](https://github.com/RamazanCinar/Portfolio)
+- [OnSport](https://github.com/RamazanCinar/OnSport-projet)
 
 ## Skills
 
