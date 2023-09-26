@@ -5,8 +5,7 @@ I'm Ramazan, a full-stack web developer.
 ## About Me
 
 - 🌱 I'm currently learning Typescript.
-- 💼 I work as a [your job title or field].
-- 📫 How to reach me: [your email address or other contact method].
+- 📫 How to reach me: ramazancinar0858@gmail.com.
 
 ## My Projects
 
