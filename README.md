@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👋
 
-I'm Ramazan, a full-stack web developer.
+I'm Ramazan Cinar, a full-stack web developer.
 
 ## About Me
 
