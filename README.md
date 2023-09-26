@@ -7,6 +7,10 @@ I'm Ramazan Cinar, a full-stack web developer.
 - 🌱 I'm currently learning Typescript.
 - 📫 How to reach me: ramazancinar0858@gmail.com.
 
+## Stack
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow)
+
+
 ## My Projects
 
 Here are some of my GitHub projects:
@@ -21,7 +25,7 @@ Here are some of my GitHub projects:
 | ----------------------- | ------------------------------ |
 | HTML                    | React                          |
 | CSS                     | Node.js                        |
-|Javascript               | Next.js                        |
+|[Javascript](https://img.shields.io/badge/JAVASCRIPT-gray?logo=javascript)               | Next.js                        |
 | SCSS                    | PostgreSQL                     |
 |                         | Tailwind CSS                   |
 |                         | Semantic UI                    |              |
