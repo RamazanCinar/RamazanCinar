@@ -1,16 +1,34 @@
-### Hi there 👋
+# Welcome to my GitHub profile 👋
 
-<!--
-**RamazanCinar/RamazanCinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ramazan, a full-stack web developer.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning Typescript.
+- 💼 I work as a [your job title or field].
+- 📫 How to reach me: [your email address or other contact method].
+
+## My Projects
+
+Here are some of my GitHub projects:
+
+- Pokédex (https://github.com/RamazanCinar/pokedex)
+- Portoflio (https://github.com/RamazanCinar/Portfolio)
+- OnSport(https://github.com/RamazanCinar/OnSport-projet)
+
+## Skills
+
+I have expertise in the following languages and technologies:
+
+- Programming Languages: HTML, CSS, JavaScript (JS), SCSS
+- Frameworks: React, Node.js, Next.js
+- Database: PostgreSQL
+- CSS Libraries: Tailwind CSS, Semantic UI
+
+
+## Contact
+
+- You can contact me on [LinkedIn](https://www.linkedin.com/in/ramazan-cinar/)
+- My email address: ramazancinar0858@gmail.com.
+
+Feel free to explore my GitHub projects and get in touch if you have any questions or opportunities for collaboration!
