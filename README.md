@@ -8,7 +8,8 @@ I'm Ramazan Cinar, a full-stack web developer.
 - 📫 How to reach me: ramazancinar0858@gmail.com.
 
 ## Stack
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow)
+https://img.shields.io/badge/JAVASCRIPT-gray?logo=javascript
+
 
 
 ## My Projects
