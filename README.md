@@ -34,8 +34,7 @@ Here are some of my GitHub projects:
 | ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/NODE.JS-5AAA46?logo=node.js&logoColor=green) |
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&logoColor=white) | ![Next.js](https://img.shields.io/badge/NEXT.JS-black?logo=next.js&logoColor=white) |
 | ![Static Badge](https://img.shields.io/badge/JAVA-F29112) | ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-306792?logo=postgresql&logoColor=white) |
-| ![SCSS](https://img.shields.io/badge/SCSS-FF69B4?logo=sass&logoColor=white) |
-| | ![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-33B4AD?logo=tailwindcss&logoColor=white) |
+| ![SCSS](https://img.shields.io/badge/SCSS-FF69B4?logo=sass&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-33B4AD?logo=tailwindcss&logoColor=white) |
 | | ![Semantic UI](https://img.shields.io/badge/SEMANTIC_UI-35BDB2?logo=semantic&logoColor=white) |
 
 
