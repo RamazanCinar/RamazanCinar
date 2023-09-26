@@ -17,12 +17,15 @@ Here are some of my GitHub projects:
 
 ## Skills
 
-I have expertise in the following languages and technologies:
+| Programming Languages   | Frameworks and Technologies    |
+| ----------------------- | ------------------------------ |
+| HTML                    | React                          |
+| CSS                     | Node.js                        |
+| JavaScript (JS)         | Next.js                        |
+| SCSS                    | PostgreSQL                     |
+|                         | Tailwind CSS                   |
+|                         | Semantic UI                    |              |
 
-- Programming Languages: HTML, CSS, JavaScript (JS), SCSS
-- Frameworks: React, Node.js, Next.js
-- Database: PostgreSQL
-- CSS Libraries: Tailwind CSS, Semantic UI
 
 
 ## Contact
