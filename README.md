@@ -9,6 +9,10 @@ I'm Ramazan Cinar, a full-stack web developer.
 
 ## Stack
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-gray?logo=javascript&logoColor=dark-gray)
+![Static Badge](https://img.shields.io/badge/REACT-gray?logo=react&logoColor=skyblue)
+![Static Badge](https://img.shields.io/badge/node.js-5AAA46?logo=node.js&logoColor=green) 
+![Static Badge](https://img.shields.io/badge/NEXT.JS-black?logo=next.js&logoColor=white)
+
 
 
 
@@ -28,7 +32,7 @@ Here are some of my GitHub projects:
 | ![Static Badge](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white) | ![Static Badge](https://img.shields.io/badge/REACT-gray?logo=react&logoColor=skyblue)
                           |
 | ![Static Badge](https://img.shields.io/badge/css-blue?logo=css3&logoColor=white)
-                     | ![Static Badge](https://img.shields.io/badge/node.js-gray?logo=node.js&logoColor=green)                        |
+                     | ![Static Badge](https://img.shields.io/badge/node.js-5AAA46?logo=node.js&logoColor=green)                        |
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-gray?logo=javascript&logoColor=dark-gray)               | ![Static Badge](https://img.shields.io/badge/NEXT.JS-black?logo=next.js&logoColor=white)
                         |
 | ![Static Badge](https://img.shields.io/badge/SCSS-FF69B4?logo=sass&logoColor=white)
