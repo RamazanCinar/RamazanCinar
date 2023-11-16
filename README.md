@@ -4,11 +4,10 @@ I'm Ramazan Cinar, a full-stack web developer.
 
 ## About Me
 
-- 🌱 I'm currently learning ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-007ACC?logo=typescript&logoColor=white)
 - 📫 How to reach me: ramazancinar0858@gmail.com
 
 ## Stack
-![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TYPESCRIPT-007ACC?logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/REACT-gray?logo=react&logoColor=skyblue)
 ![Static Badge](https://img.shields.io/badge/NODE.JS-5AAA46?logo=node.js&logoColor=green) 
 ![Static Badge](https://img.shields.io/badge/NEXT.JS-black?logo=next.js&logoColor=white)
